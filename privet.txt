@@ -1,0 +1,9 @@
+.vscode
+dz1.java
+file.txt
+log.txt
+log.txt.lck
+privet.txt
+program.java
+SeminarDwa.java
+SeminarPervyy.java
